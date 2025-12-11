@@ -15,7 +15,7 @@ after "Expression:" thats the minimal leaked source code
 
 this also reveals why it crashes sometimes with the music enabled when you have the original sdl.dll that comes included with the game itself
 
-Less Technical things:
+#Less Technical things:
 
 found texture matching in this texture:
 
